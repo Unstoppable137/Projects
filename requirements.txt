@@ -1,0 +1,6 @@
+cryptography
+opencv-python
+face_recognition
+numpy
+liboqs-python
+python-pptx
